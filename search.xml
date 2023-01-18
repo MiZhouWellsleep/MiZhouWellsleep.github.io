@@ -4,9 +4,34 @@
   
     
     <entry>
+      <title>blog摸索日志</title>
+      <link href="/2023/01/18/blog%E6%91%B8%E7%B4%A2%E6%97%A5%E5%BF%97/"/>
+      <url>/2023/01/18/blog%E6%91%B8%E7%B4%A2%E6%97%A5%E5%BF%97/</url>
+      
+        <content type="html"><![CDATA[<h1 id="2023年1月18日"><a href="#2023年1月18日" class="headerlink" title="2023年1月18日"></a>2023年1月18日</h1><h2 id="2023年1月18日14-18-21"><a href="#2023年1月18日14-18-21" class="headerlink" title="2023年1月18日14:18:21"></a>2023年1月18日14:18:21</h2><p>经过昨天一下午的摸索，博客终于算是大体搭建起来啦！虽然大部分还是照抄的教程做的，不过比起以前只会在小黑窗里写一些简单小程序有成就感的多。不过确实发现还是有太多需要学习的地方了，希望能坚持学习下去。</p><p>目前大概是下面这样子的：</p><p><img src="/../my_data/img/blog_img/image-20230118145213899.png" alt="image-20230118145213899"></p><p><img src="/../my_data/img/blog_img/image-20230118145244956.png" alt="image-20230118145244956"></p><p>在hexo框架下用butterfly主题进行美化，参考<code>https://space.bilibili.com/220757832</code>这个up的视频学习的。已完成butterfly配置文档基本填写，一图流调整，分类磁贴以及文章置顶轮播图。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 探索成长记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>这是一篇测试文章</title>
-      <link href="/2023/01/16/2023-1-17/"/>
-      <url>/2023/01/16/2023-1-17/</url>
+      <link href="/2023/01/16/2023-1-17-%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/01/16/2023-1-17-%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
       
         <content type="html"><![CDATA[<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><p>测试</p>]]></content>
       
