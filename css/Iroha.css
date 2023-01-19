@@ -6,7 +6,7 @@ body::-webkit-scrollbar {
 .neko {
     width: 64px;
     height: 64px;
-    background-image: url("../img/Iroha_bighead.png");
+    background-image: url("https://cdn.staticaly.com/gh/MiZhouWellsleep/pic_bed@main/img/blog/Iroha.png");
     position: absolute;
     right: 32px;
     background-repeat: no-repeat;

@@ -34,7 +34,7 @@ if (document.body.clientWidth > 992) {
                 borderRadius: 5 + 'px',
                 right: 60 + 'px',
                 // 这里可以换为你喜欢的图片，例如我就换为了雪人，但是要抠图
-                nekoImg: "../img/Iroha_bighead.png",
+                nekoImg: "https://cdn.staticaly.com/gh/MiZhouWellsleep/pic_bed@main/img/blog/Iroha.png",
                 hoverMsg: "不许摸鱼哦",
                 color: "#6f42c1",
                 during: 500,
